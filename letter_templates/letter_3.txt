@@ -1,0 +1,11 @@
+Dear [NAME],
+
+Here's to another year of amazing adventures, endless opportunities, and beautiful memories.
+May your birthday be the beginning of a wonderful journey ahead.
+Cheers to you! Happy Birthday!
+
+Best wishes!
+py Rohit
+
+* this is python automated birthday wisher sent from pythonanywhere website.
+https://www.pythonanywhere.com/

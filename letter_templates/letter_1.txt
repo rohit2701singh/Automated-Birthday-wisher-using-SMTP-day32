@@ -1,0 +1,10 @@
+Dear [NAME],
+
+Happy birthday!
+All the best for the year!
+
+Best wishes
+Rohit
+
+* this is python automated birthday wisher sent from pythonanywhere website.
+https://www.pythonanywhere.com/

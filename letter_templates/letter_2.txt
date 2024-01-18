@@ -1,0 +1,13 @@
+Dear [NAME],
+
+May your special day be filled with joy,laughter, and cherished moments.
+Wishing you a year ahead filled with love, success,and all the things that bring you happiness.
+
+Happy birthday!
+
+Best wishes
+py Rohit
+
+* this is python automated birthday wisher sent from pythonanywhere website.
+https://www.pythonanywhere.com/
+
